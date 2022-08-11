@@ -1,0 +1,114 @@
+SUPERCRIPT=>POWER
+SUBCRIPT=>EXPONENT
+BOTH ARE INLINE T
+
+Italinc tags em,i,dfn,cite
+font tag to change the text color and size.->IN html4
+<marquee> used for moving text
+<marquee behavior = "alternate">
+
+BLOCKQUOTE->To remove copyright claims. sITE Link is given
+
+<Q>-> Quotation Inline 
+	
+ALTR+SHIFT+S->To structure the code
+
+Absolute Link
+Relative Link
+
+
+Address=uses for a specific portion for a link to use. open send gmail application.
+
+del and s tag have same work. s helps in seo.
+
+<list> to show data in list format.
+
+three types
+ 
+.ordered list <ol>	Numbering list
+	type= A,a,i,I,1.
+
+<unordered list<ul>		
+	type= disc,circle,square.
+
+definition list<dl>
+
+
+
+	dt=>defination term.
+	dl=>defination list
+	dd=>definition description 
+
+item = <li>list item.
+attribute = type.
+
+class 4
+
+anchor tag uses to jump between sites.
+<a href= "url"> site name>
+href= hyoer reference.
+
+
+layouts=> fixed or liquid.
+html=> learning page or multipage.
+
+
+
+
+spa application=>changing of components.
+
+email
+a href"mailto:new@gmail.com".
+
+webopens.
+
+url on inernet
+absolute url-> hosted can be accessed on any computer.
+relative url=> not hosted, only in system.
+
+path on system
+absolute path=> on another folder.
+
+
+
+child=>./filename.html
+grand child=>./folder/filename.
+
+relative path-= current folder.
+
+
+
+
+class 5
+Images=> Two Types.
+i)Raster image.
+ii)Vector image.
+
+<img src="path,url">
+img attributes.
+alt=alter set the description of image in case of wrong path.
+width,hight,
+align=>left,right,top,bottom,center/middle.
+
+
+Table.
+To show data in row and column format.
+table,tr,th,td.
+
+
+
+
+
+Class 6.
+
+figure tag uses for a caption below the tag.
+a predefined caption allocated before the image.
+
+
+figcaption to add caption.
+
+
+
+container-> div and span.
+div=block line
+span-inline.
